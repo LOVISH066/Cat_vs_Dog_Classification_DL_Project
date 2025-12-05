@@ -81,18 +81,13 @@ Here’s how the web app looks when making a prediction:
 ![Prediction Example](https://github.com/Taiyabakhan/ImageClassificationUsingCNN/blob/main/Screenshots/Screenshot%20(305).png)
 
 ---
-## 📺 Live Demo
-
-Watch the live demo here: [Click to Watch](https://youtu.be/aTTiT15X3fM)
-
-> 🎥 This demo showcases the core features and functionality of the project.
  
 --- 
 ## 👩‍💻 Author
 
-**Taiyaba Khan**  
-📧 khantaiyaba610@gmail.com  
-🌐 [GitHub: Taiyabakhan](https://github.com/Taiyabakhan)
+**LOVISH GOYAL**  
+📧 lgoyal_be22@thapar.edu  
+🌐 [GitHub: LOVISH GOYAL](https://github.com/LOVISH066)
 
 ---
 
